@@ -48,7 +48,7 @@ Welcome to my GitHub! I'm a passionate Data Analyst who loves transforming raw d
 ---
 
 ### 📌 **Sales Insights Project | November 2024**  
-**Skills:** SQL | Excel | Power BI  
+**Skills:** SQL | Excel | Power BI | Python  
 - Completed a Sales Insights project using Excel, MySQL, and Power BI with Atliq Technologies data.  
 - Performed data retrieval, cleaning, and modeling to prepare accurate datasets.  
 - Built Power BI dashboards to visualize key sales metrics and trends.  
