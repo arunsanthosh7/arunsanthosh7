@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arun Santhosh
 
-### 📊 Data Analyst | SQL • Excel • Power BI • Python • Pandas • NumPy
+### 📊 Data Analyst | SQL • Excel • Power BI • Tableau • Python • Pandas • NumPy
 
 Welcome to my GitHub! I'm a passionate Data Analyst who loves transforming raw data into meaningful insights using modern analytics tools and techniques.
 
@@ -31,7 +31,8 @@ Welcome to my GitHub! I'm a passionate Data Analyst who loves transforming raw d
 - Excel (VLOOKUP, Pivot Tables, Data Cleaning)  
 
 ### 🔹 Visualization
-- Power BI  
+- Power BI
+- Tableau  
 - Matplotlib / Seaborn (basic)  
 
 ### 🔹 Soft Skills
@@ -83,12 +84,26 @@ Welcome to my GitHub! I'm a passionate Data Analyst who loves transforming raw d
 - Evaluated model performance using Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-Squared (R²) metrics.
 - Identified Linear Regression as the best-performing model based on R² score and error metrics.
 
+---
+
+### 📌 ✈️ **British Airways Customer Reviews Analysis (Tableau) | January 2026**
+**Skills:** Tableau, Data Visualization, Dashboard Design, KPI Analysis, Time-Series Analysis, Geographic Analysis, Business Insights
+- Built an end-to-end interactive Tableau dashboard to analyze British Airways customer reviews across multiple service metrics, including cabin staff service, seat comfort, food, entertainment, and value for money.
+- Designed dynamic KPIs and parameter-driven metric selection to allow flexible analysis by date range, traveller type, seat class, aircraft group, and region.
+- Performed time-series analysis to identify trends in customer satisfaction over multiple years and detect service consistency and performance dips.
+- Conducted geographic and aircraft-level analysis to compare customer ratings across countries and aircraft models, highlighting operational strengths and improvement areas.
+- Delivered business-ready insights through intuitive visual design and storytelling, demonstrating strong data visualization, analytical thinking, and Tableau expertise.
+  
+---
+
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunsanthosh7&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsanthosh7&layout=compact&theme=radical)
+
+
 
 ---
 
