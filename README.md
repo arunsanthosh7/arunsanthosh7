@@ -96,6 +96,10 @@ Welcome to my GitHub! I'm a passionate Data Analyst who loves transforming raw d
   
 ---
 
+### 📌 **Sales Performance Analytics Dashboard 2024 (Excel) | Febuary 2026**
+- Built an end-to-end Sales Analytics Dashboard in Excel analyzing 260+ transactions across 12 months, leveraging 15+ functions (SUMIF, INDEX/MATCH, SUMPRODUCT, AVERAGEIF, COUNTIFS) to deliver real-time KPIs on revenue, profit, and sales rep performance across 5 regions and 4 product categories.
+- Designed a multi-sheet data model with 1,200+ dynamic formulas covering aggregate analysis, monthly trend tracking, and interactive order lookup — ensuring zero formula errors and full auto-recalculation upon data changes.
+- Created an executive-level visual dashboard featuring 4 charts (trend line, bar, pie) and KPI scorecards for Total Revenue, Profit, Order Volume, and Margin — enabling data-driven decisions on top performers, regional gaps, and category profitability.
 
 ## 📊 GitHub Stats
 
